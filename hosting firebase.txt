@@ -1,0 +1,21 @@
+Firebase Hosting 
+1) Go to firebase.google.com 
+2) Sigin using Gmail 
+3) Create a project 
+4) Goto nodejs.org 
+5) Download stable version 
+6) Install 
+7) Check node and npm node --version    npm --version
+8) Install firebase using command
+             npm install --global firebase-tools 
+9) Check version of firebase
+             firebase --version 
+10) Login Firebase using command
+             firebase login 
+11) Goto your project path using
+             cd .. and cd for change directory 
+12) firebase init 
+13) Use existing project and select 
+14) Create public folder 
+15) Put your index.html and other project file inside public folder 
+16) Write command to deploy project firebase deploy

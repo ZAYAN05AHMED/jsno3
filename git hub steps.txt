@@ -1,0 +1,31 @@
+GIT ( Distributive Version Control System)
+
+1) Goto git-scm.com
+2) Make account in github.com
+3) Create a repository
+4) To initiatlize git project
+git init
+5) To check status
+git status
+6) To track files
+git add -A
+7) To store files
+git commit -m "MESSAGE"
+8)Git config --global user.email "email here"
+Git config --global user.name "name here"
+9) To connect remote
+git remote add origin <link>
+10) To push code
+git push -u origin master
+
+11)gh-path for github hosting
+
+
+
+
+
+
+Github User names:
+Aisha : aishakhan0925
+Basit: BasitAyaz
+Ali Mughal: mali521
